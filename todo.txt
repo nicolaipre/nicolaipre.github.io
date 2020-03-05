@@ -1,0 +1,4 @@
+
+https://gohugo.io/getting-started/quick-start/
+
+https://themes.gohugo.io/hugo-theme-hello-friend-ng/
