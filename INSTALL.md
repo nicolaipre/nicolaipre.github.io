@@ -17,7 +17,8 @@ git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git them
 ---
 ## Build
 ```bash
-hugo -D
+sh build.sh
+sh gh-deploy.sh public/
 ```
 
 ---
