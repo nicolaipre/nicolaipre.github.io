@@ -1,4 +1,6 @@
-baseURL = "https://ialoc.in/"
+baseURL = ""
+#"https://ialoc.in/"
+relativeurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme        = "hello-friend-ng"
