@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ialoc.in/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ialoc.in/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ialoc.in/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ialoc.in/blog/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>https://ialoc.in/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>https://ialoc.in/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
