@@ -15,9 +15,8 @@
             <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
             
             <guid>/posts/my-first-post/</guid>
-            <description>Hello This is content</description>
-            <content type="html"><![CDATA[<h1 id="hello">Hello</h1>
-<p>This is content</p>
+            <description>This is some content that will be updated.</description>
+            <content type="html"><![CDATA[<p>This is some content that will be updated.</p>
 ]]></content>
         </item>
         
