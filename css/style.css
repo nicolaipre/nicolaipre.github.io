@@ -18,7 +18,8 @@ code[class*="language-"], pre[class*="language-"] {
 
 img.circle {
     border-radius: 0 !important;
-    margin-bottom: 20% !important;
+    margin-top: 6%;
+    margin-bottom: 6% !important;
 }
 
 .content {
