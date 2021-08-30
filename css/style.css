@@ -1,0 +1,17 @@
+pre[class*="language-"] {
+    border-radius: none !important;
+    border: thin #1b1c1d !important;
+    box-shadow: none !important;
+}
+
+pre {
+    background-color: #2d2d2d !important;
+}
+
+code[class*="language-"], pre[class*="language-"] {
+    font-size: 0.9em !important;
+}
+
+.logo__cursor {
+    background: #6d66e0 !important;
+}
