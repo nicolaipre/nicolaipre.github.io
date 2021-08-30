@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/writeups/test/</loc>
+    <loc>/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/writeups/test/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>/random/my-first-post/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/random/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
