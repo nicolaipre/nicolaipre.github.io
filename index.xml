@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ialoc.in: ~$</title>
-    <link>/</link>
-    <description>Recent content on ialoc.in: ~$</description>
+    <title>Hello Friend NG</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Hello Friend NG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testpost</title>
-      <link>/writeups/test/</link>
+      <link>https://example.com/writeups/test/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/writeups/test/</guid>
+      <guid>https://example.com/writeups/test/</guid>
       <description>This is a test headline and this is some content
 Subsection Okay
 Code-test
@@ -22,10 +22,10 @@ $ ls -la test/ import struct a = struct.pack(&amp;#34;&amp;lt;I&amp;#34;, 0xFFFF
     
     <item>
       <title>My First Post</title>
-      <link>/random/my-first-post/</link>
+      <link>https://example.com/random/my-first-post/</link>
       <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
       
-      <guid>/random/my-first-post/</guid>
+      <guid>https://example.com/random/my-first-post/</guid>
       <description></description>
     </item>
     
