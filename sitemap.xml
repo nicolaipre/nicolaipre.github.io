@@ -18,17 +18,25 @@
   </url>
   
   <url>
-    <loc>/random/my-first-post/</loc>
+    <loc>/posts/2020/10/my-first-post/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/random/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/random/abc/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/random/</loc>
   </url>
   
   <url>
