@@ -17,7 +17,7 @@
       <description>This is a test headline and this is some content
 Subsection Okay
 Code-test
-$ ls -la test/ import struct a = struct.pack(&amp;#34;&amp;lt;I&amp;#34;, 0xFFFFFFFF) print(a) </description>
+$ ls -la test/  import struct a = struct.pack(&amp;quot;&amp;lt;I&amp;quot;, 0xFFFFFFFF) print(a)  </description>
     </item>
     
   </channel>
