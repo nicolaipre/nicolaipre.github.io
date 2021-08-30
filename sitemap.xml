@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>/writeups/test/</loc>
+    <loc>/writeups/testpost/</loc>
     <lastmod>2021-08-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/writeups/my-first-post/</loc>
+    <loc>/writeups/my-second-post/</loc>
     <lastmod>2020-10-03T15:27:40+02:00</lastmod>
   </url>
   
@@ -33,15 +33,7 @@
   </url>
   
   <url>
-    <loc>/random/abc/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/random/</loc>
   </url>
   
   <url>
