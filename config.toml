@@ -3,9 +3,8 @@ baseURL = ""
 relativeurls = true
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme        = "hello-friend-ng"
-
-paginate     = 10
+theme = "hello-friend-ng"
+paginate = 10
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -14,7 +13,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "sometexthere"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -37,10 +36,11 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    title = "Title text"
+    subtitle = '<img src="https://github.com/nicolaipre/nicolaipre/raw/master/cicada-small.png">'
+    keywords = "binary exploitation, reverse engineering, "
+    copyright = ''
+    #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -56,3 +56,7 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.writeups]]
+    identifier = "writeups"
+    name       = "Writeups"
+    url        = "/writeups"

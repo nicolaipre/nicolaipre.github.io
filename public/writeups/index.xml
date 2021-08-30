@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Title text</title>
-    <link>/</link>
-    <description>Recent content on Title text</description>
+    <title>Writeups on Title text</title>
+    <link>/writeups/</link>
+    <description>Recent content in Writeups on Title text</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testpost</title>
       <link>/writeups/test/</link>
@@ -17,15 +17,6 @@
 Subsection Okay
 Code-test
 $ ls -la test/ </description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>
