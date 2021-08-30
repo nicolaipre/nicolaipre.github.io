@@ -12,9 +12,9 @@ code[class*="language-"], pre[class*="language-"] {
     font-size: 0.9em !important;
 }
 
-.logo__cursor {
+/*.logo__cursor {
     background: #6d66e0 !important;
-}
+}*/
 
 img.circle {
     border-radius: 0 !important;
@@ -24,4 +24,8 @@ img.circle {
 
 .content {
     display: inline !important;
+}
+
+article.h2 {
+    display: none !important;
 }
