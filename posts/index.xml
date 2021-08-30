@@ -11,10 +11,10 @@
         
         <item>
             <title>My First Post</title>
-            <link>/posts/2020/10/my-first-post/</link>
+            <link>/posts/my-first-post/</link>
             <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
             
-            <guid>/posts/2020/10/my-first-post/</guid>
+            <guid>/posts/my-first-post/</guid>
             <description>Hello This is content</description>
             <content type="html"><![CDATA[<h1 id="hello">Hello</h1>
 <p>This is content</p>

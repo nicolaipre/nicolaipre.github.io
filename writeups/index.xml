@@ -10,10 +10,10 @@
     <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/writeups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testpost</title>
-      <link>/writeups/2021/08/testpost/</link>
+      <link>/writeups/test/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/writeups/2021/08/testpost/</guid>
+      <guid>/writeups/test/</guid>
       <description> blablablabla
  Subsection Okay
 Code-test
@@ -22,10 +22,10 @@ $ ls -la test/ import struct a = struct.pack(&amp;#34;&amp;lt;I&amp;#34;, 0xFFFF
     
     <item>
       <title>My second Post</title>
-      <link>/writeups/2020/10/my-second-post/</link>
+      <link>/writeups/my-first-post/</link>
       <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
       
-      <guid>/writeups/2020/10/my-second-post/</guid>
+      <guid>/writeups/my-first-post/</guid>
       <description>Hello 2 This is content 2</description>
     </item>
     
