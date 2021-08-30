@@ -15,8 +15,10 @@
             <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
             
             <guid>/posts/2020/10/my-first-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <description>Hello This is content</description>
+            <content type="html"><![CDATA[<h1 id="hello">Hello</h1>
+<p>This is content</p>
+]]></content>
         </item>
         
     </channel>

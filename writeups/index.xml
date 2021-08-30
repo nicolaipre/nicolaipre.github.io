@@ -20,5 +20,14 @@ Code-test
 $ ls -la test/ import struct a = struct.pack(&amp;#34;&amp;lt;I&amp;#34;, 0xFFFFFFFF) print(a) </description>
     </item>
     
+    <item>
+      <title>My second Post</title>
+      <link>/writeups/2020/10/my-second-post/</link>
+      <pubDate>Sat, 03 Oct 2020 15:27:40 +0200</pubDate>
+      
+      <guid>/writeups/2020/10/my-second-post/</guid>
+      <description>Hello 2 This is content 2</description>
+    </item>
+    
   </channel>
 </rss>
