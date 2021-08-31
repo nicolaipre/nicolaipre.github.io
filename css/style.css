@@ -2,6 +2,10 @@
     background-color: whitesmoke !important;
 }
 
+.header__inner {
+    width: 960px !important;
+}
+
 pre[class*="language-"] {
     border-radius: 0 !important;
     border: thin #1b1c1d !important;
@@ -28,4 +32,8 @@ img.circle {
 
 .content {
     display: inline !important;
+}
+
+.post .posts {
+    max-width: 1000px !important;
 }
