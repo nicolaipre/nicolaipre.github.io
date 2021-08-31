@@ -34,6 +34,10 @@ img.circle {
     display: inline !important;
 }
 
-.post .posts {
+.post {
+    max-width: 1000px !important;
+}
+
+.posts {
     max-width: 1000px !important;
 }
