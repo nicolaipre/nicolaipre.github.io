@@ -1,3 +1,7 @@
+[data-theme=light] body {
+    background-color: whitesmoke !important;
+}
+
 pre[class*="language-"] {
     border-radius: 0 !important;
     border: thin #1b1c1d !important;
