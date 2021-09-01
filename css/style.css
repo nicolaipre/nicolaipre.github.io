@@ -2,6 +2,10 @@
     background-color: whitesmoke !important;
 }
 
+[data-theme=dark] .button {
+    background: #1b1c1d !important;
+}
+
 .header__inner {
     width: 960px !important;
 }
@@ -40,4 +44,12 @@ img.circle {
 
 .posts {
     max-width: 1000px !important;
+}
+
+.button__text {
+    font-size: 0.9em !important;
+}
+
+.button a {
+    padding: 2px 8px 2px 10px !important;
 }
